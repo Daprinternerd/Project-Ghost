@@ -2,6 +2,7 @@ title: "Project Ghost"
 author: "Thomas Gile"
 description: "High Speed 3d Printer"
 created_at: "2024-05-22"
+
 5/22/2025 Log 1: The Start
 
 I set up my repo, the Fusion 360 docs, and the other documents I am using to track my project's development. Then I cobbled together some various parts from CAD of different projects and made a mockup of what it could look like: ![Screenshot 2025-05-22 072858](https://github.com/user-attachments/assets/517e3725-991b-43a0-8b9b-5d0a9e3d8069)
