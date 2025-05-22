@@ -22,3 +22,12 @@ Now that I have the frame, it is time to get to CAD!
 
 Time Spent: 2 hours
 
+# 5/22/2025 Log 3: Getting Basic Parts
+
+I started getting the CAD file organised. I made a folder in Fusion 360 and then referenced other CAD files for ideas and inspiration. I then started to collect basic part CAD files from the internet for the printer frame, using the LH Stinger BOM as a basic list of parts. This technique of using the internet to find premade models for parts like aluminum extrusions, screws, and other things can speed up the CAD process.
+
+![Screenshot 2025-05-22 141313](https://github.com/user-attachments/assets/c15c1cc7-2978-44f7-aafa-c80af410894c)
+
+Time Spent: 1 and a half hours
+
+
