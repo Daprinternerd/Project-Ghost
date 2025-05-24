@@ -30,4 +30,12 @@ I started getting the CAD file organised. I made a folder in Fusion 360 and then
 
 Time Spent: 1 and a half hours
 
+# 5/24/2025 Log 4: Frame Designed!
+
+I built the frame in Fusion 360 and found that you can get CAD files of parts you can order on: https://us.misumi-ec.com/. I then started getting the file organised so I can hopefully create a BOM natively in Fusion 360.
+
+![Screenshot 2025-05-24 091154](https://github.com/user-attachments/assets/268c7227-6073-40b9-8695-469948fb7ec8)
+![Screenshot 2025-05-24 091132](https://github.com/user-attachments/assets/7f724eae-430a-4cd8-a159-cb0624f7207b)
+
+Time Spent: 2 Hours
 
