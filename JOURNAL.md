@@ -3,7 +3,7 @@ author: "Thomas Gile"
 description: "High Speed 3d Printer"
 created_at: "2024-05-22"
 
-# Current Total Time Worked On Project: 9.4 Hours
+# Current Total Time Worked On Project: 12.9 Hours
 
 # 5/22/2025 Log 1: The Start
 
@@ -51,4 +51,18 @@ How the printer currently looks:
 
 Time Spent: 3.5 Hours
 
+# 5/28/2025 Log 6: Adding More Parts
+Today, I added more parts to the 3d printer, most notably the dual Z-belted system from the LH Stinger. I am also preparing for the part where I shine: toolhead design! I sent an email to Dimitri, the Picolino extruder guy, and hopefully, he will send me the CAD files I requested. I also created a sketch of some ideas for the toolhead and the project’s logo on some graph paper: 
 
+![Sketch of Toolhead](https://github.com/user-attachments/assets/6f1840ae-c282-4bdf-b204-84e20d0e965e)
+
+
+I really want to go all out on this toolhead, I am aiming for under 500 grams, but with insane cooling, integrated PCB, one cable back to the mainboard, support for 4 color printing, a watercooled metal extruder block, and maybe even have the heatsink combined with the extruder itself! I would like to add RGB accents to the logo on the toolhead and some recessed details as well. 
+
+This is how the printer currently looks:
+
+![Screenshot 2025-05-29 204204](https://github.com/user-attachments/assets/b904d15c-a223-497c-ac54-b03bbbc0b499)
+
+Time Spent: 3.5 Hours
+
+a
