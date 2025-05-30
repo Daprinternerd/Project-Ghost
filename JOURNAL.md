@@ -3,7 +3,7 @@ author: "Thomas Gile"
 description: "High Speed 3d Printer"
 created_at: "2024-05-22"
 
-# Current Total Time Worked On Project: 12.9 Hours
+# Current Total Time Worked On Project: 14.9 Hours
 
 # 5/22/2025 Log 1: The Start
 
@@ -65,4 +65,12 @@ This is how the printer currently looks:
 
 Time Spent: 3.5 Hours
 
-a
+# 5/28/2025 Log 7: Finally Starting to Look Like A Printer!
+Today I added more parts, I also modified some parts. I am quickly approaching the point where now on, the CAD will be made solely by me. I added a basic placeholder toolhead and am getting the MISC parts located and positioned.
+Also I my Bambu Labs order arrived, I got a roll of CF-PLA, A roll of CF-PETG, and four rolls of basic PLA, along with an engineering plate and a 0.6 hardened steel nozzle. The CF filament is for printing the parts for the machine! And the accessories for being able to print the plastic. I also organised a vast amount of parts in my workshop and cleaned up quite a bit! Here is a photo dump of the days activities: 
+
+![IMG_6909](https://github.com/user-attachments/assets/e218fd93-df26-4a41-b337-4600fa4b6a85)
+![IMG_6908](https://github.com/user-attachments/assets/b5587ed8-d478-45ca-966c-6d923cb4e579)
+![Screenshot 2025-05-29 205304](https://github.com/user-attachments/assets/07e82241-9325-4e1f-a2f9-c80a9c0dc2ea)
+
+Time Spent 2 Hours
