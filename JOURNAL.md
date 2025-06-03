@@ -3,7 +3,7 @@ author: "Thomas Gile"
 description: "High Speed 3d Printer"
 created_at: "2024-05-22"
 
-# Current Total Time Worked On Project: 14.9 Hours
+# Current Total Time Worked On Project: 19.9 Hours
 
 # 5/22/2025 Log 1: The Start
 
@@ -67,10 +67,28 @@ Time Spent: 3.5 Hours
 
 # 5/28/2025 Log 7: Finally Starting to Look Like A Printer!
 Today I added more parts, I also modified some parts. I am quickly approaching the point where now on, the CAD will be made solely by me. I added a basic placeholder toolhead and am getting the MISC parts located and positioned.
-Also I my Bambu Labs order arrived, I got a roll of CF-PLA, A roll of CF-PETG, and four rolls of basic PLA, along with an engineering plate and a 0.6 hardened steel nozzle. The CF filament is for printing the parts for the machine! And the accessories for being able to print the plastic. I also organised a vast amount of parts in my workshop and cleaned up quite a bit! Here is a photo dump of the days activities: 
+Also I my Bambu Labs order arrived, I got a roll of CF-PLA, A roll of CF-PETG, and four rolls of basic PLA, along with an engineering plate and a 0.6 hardened steel nozzle. The CF filament is for printing the parts for the machine! And the accessories for being able to print the plastic. I also organised a vast amount of parts in my workshop and cleaned up quite a bit! Here is a photo dump of the day's activities: 
 
 ![IMG_6909](https://github.com/user-attachments/assets/e218fd93-df26-4a41-b337-4600fa4b6a85)
 ![IMG_6908](https://github.com/user-attachments/assets/b5587ed8-d478-45ca-966c-6d923cb4e579)
 ![Screenshot 2025-05-29 205304](https://github.com/user-attachments/assets/07e82241-9325-4e1f-a2f9-c80a9c0dc2ea)
 
 Time Spent 2 Hours
+
+# 5/29/2025 and 6/2/2025 Log 8: Toolhead Shtuff!
+These past days, I have been hard at work CAD'ing and physically building things. To start off, I scoured the internet for the toolhead files I required for a ultra combined version that will blow you away (I hope, since I have not made it yet). I part sorted loads of screws, organised my workshop fully, geared up my printer to print Carbon Fiber infused filimants, and printed and built (mostly) my plan B toolhead. 
+You may ask: "What is a Plan B toolhead?" Well, my projects are often ambitious, and so I have purposely integrated failsafes into my plan for this project. So I have my Plan A toolhead, a wild but super cool toolhead design, but if I am not able to finish the toolhead design in time, I have a still cool Plan B toolhead. THAT is the one I built today. I also experimented with getting cleaner toop surfaces on my 3d prints and my logo (Sanding, and Slicer optimization).
+
+Here is the photo dump: 
+![Screenshot 2025-06-02 194858](https://github.com/user-attachments/assets/1a71cb7a-a01a-4a50-a9c0-7df3b528c8ab)
+![Screenshot 2025-06-02 194833](https://github.com/user-attachments/assets/96a0088c-f651-4054-9974-78567f0f0f09)
+![Screenshot 2025-06-02 194845](https://github.com/user-attachments/assets/b2047f0e-5aea-4abb-8e75-fb42ead96b62)
+![IMG_6932](https://github.com/user-attachments/assets/8b6a3bf8-b6f3-4263-807b-26ae3e2484c1)
+![IMG_6931](https://github.com/user-attachments/assets/ded071e4-5754-4d64-8d39-21cea5f5a273)
+![IMG_6930](https://github.com/user-attachments/assets/36d4920f-ec67-40af-b778-d94e609a47a8)
+![IMG_6929](https://github.com/user-attachments/assets/d4b1f5ac-5c42-4e3c-bdb2-f9def20c8a4d)
+![IMG_6928](https://github.com/user-attachments/assets/6e82160b-cf74-45d9-8b97-1253acfdeb47)
+![IMG_6927](https://github.com/user-attachments/assets/fa70abfb-0ee8-40b0-8db8-30e487dc1015)
+![IMG_6933](https://github.com/user-attachments/assets/59b4ed3f-4c83-4c7f-961e-0f0cff6585e6)
+
+Time Spent: 5 Hours
