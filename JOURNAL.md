@@ -3,7 +3,7 @@ author: "Thomas Gile"
 description: "High Speed 3d Printer"
 created_at: "2024-05-22"
 
-# Current Total Time Worked On Project: 19.9 Hours
+# Current Total Time Worked On Project: 27.9 Hours
 
 # 5/22/2025 Log 1: The Start
 
@@ -92,3 +92,13 @@ Here is the photo dump:
 ![IMG_6933](https://github.com/user-attachments/assets/59b4ed3f-4c83-4c7f-961e-0f0cff6585e6)
 
 Time Spent: 5 Hours
+
+# 6/4/25 and 6/3/25 and 6/2/25 Log 9 Toolhead Starting To Look Toolhead-y?
+
+These last few days have been me just grinding cad, trying to combine Kevin's current world record toolhead with the Lh Stinger toolhead and creating my own oringinal BEAST! It currently doesnt look like much but it has been a LOT of work: 
+
+![image](https://github.com/user-attachments/assets/1b62cd70-33fc-4266-a21e-332268dfde02)
+
+I spent time in the Roadtrip call as well while CADDing.
+
+Time spent 8 hours
